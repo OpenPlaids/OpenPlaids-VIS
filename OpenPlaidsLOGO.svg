@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="OpenPlaidsLOGO.svg">
+   sodipodi:docname="OpenPlaidsLOGO.svg"
+   inkscape:export-filename="C:\Users\快乐的老鼠宝宝\Documents\GitHub\OpenPlaids-VIS\OpenPlaidsLOGO.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <title
      id="title898">OpenPlaidsLOGO</title>
   <defs
@@ -32,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="343.03387"
-     inkscape:cy="669.02423"
+     inkscape:zoom="0.5"
+     inkscape:cx="262.23768"
+     inkscape:cy="578.2157"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -58,7 +61,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.310086"
+       id="rect22"
+       width="271"
+       height="271"
+       x="-1.0035715e-05"
+       y="-3.1789146e-08" />
+  </g>
+  <g
+     inkscape:label="Pattern"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
@@ -91,11 +106,16 @@
        x="-0.62969583"
        y="-209.53931"
        transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text">
     <text
        xml:space="preserve"
        id="text876"
        style="font-style:normal;font-weight:normal;font-size:158.75px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect878);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(2.0977673,0,0,2.0239343,-86.129912,-100.94204)"><tspan
+       transform="matrix(2.0977673,0,0,2.0239343,-86.129913,-100.94204)"><tspan
          x="42.763672"
          y="173.59717"><tspan
            style="shape-inside:url(#rect878)">O</tspan></tspan></text>
